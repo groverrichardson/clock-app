@@ -1,0 +1,11 @@
+{
+  "name": "clock-app",
+  "version": "1.0.0",
+  "description": "Clock app challenge from Frontend Mentor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
